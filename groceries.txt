@@ -6,3 +6,4 @@ Quarentine Groceries:
 -Ice-cream
 -Chocolate
 -Beans
+-Cheese

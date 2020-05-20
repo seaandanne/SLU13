@@ -4,3 +4,4 @@ Quarentine Groceries:
 -Coffe
 -Beer
 -Ice-cream
+-Chocolate
